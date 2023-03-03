@@ -1,0 +1,13 @@
+body{
+    background-color: #00AB55;
+}
+
+.right-main{
+    background: #FFFFFF;
+    border-radius: 80px 0px 0px 80px;
+    position: absolute;
+    width: 1210px;
+    height: 948px;
+    left: 710px;
+    top: 0px;
+}
